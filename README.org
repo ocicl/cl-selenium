@@ -1,0 +1,10 @@
+* cl-selenium
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/html/cl-selenium.git   |
+| commit  | 15ad2ab  |
+| systems | cl-selenium |
+|---------+-------------------------------------------|
+
